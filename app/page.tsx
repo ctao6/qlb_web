@@ -95,7 +95,6 @@ export default function QlbPage() {
                   {result.label}
                 </span>
               </h3>
-              <p>Confidence: {result.confidence.toFixed(2)}%</p>
             </div>
           )}
         </div>
