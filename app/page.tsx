@@ -55,7 +55,7 @@ export default function QlbPage() {
       <header>
       </header>
       <h1 className="text-2xl font-bold mt-4">Queensland Longhorn Beetle Resources</h1>
-      <p>Tools and information to help with invasive QLBs</p>
+      <p>Tools and information to help with QLB infestations.</p>
       
       <section className="rounded-md bg-green-400 p-4">
         <h2>QLB Infestation Detector</h2>
